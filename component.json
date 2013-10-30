@@ -1,0 +1,7 @@
+{
+	"name": "ReadNES.js",
+    "version": "1.0",
+    "dependencies": {
+        "requirejs": "latest"
+    }
+}
